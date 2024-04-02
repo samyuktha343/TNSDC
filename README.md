@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- [Samyuktha S R](https://github.com/samyuktha343/TNSDC.git)      
+- [Samyuktha S R](https://github.com/samyuktha343)      
 
 ## Contributing
 
