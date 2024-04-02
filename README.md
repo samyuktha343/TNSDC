@@ -51,7 +51,7 @@ Follow these steps to run the code and obtain Generative Model for Data Augmenta
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/samyuktha343/TNSDC.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- [Sameera Banu M](https://github.com/your-Sameera0103)      #CHANGE THIS
+- [Samyuktha S R](https://github.com/samyuktha343/TNSDC.git)      
 
 ## Contributing
 
@@ -121,7 +121,7 @@ If you'd like to contribute to this project, please open an issue or create a pu
 
 ## Contact
 
-For any questions or feedback, feel free to contact us at [sameeramansoor03@email.com](mailto:sameeramansoor03@email.com).   #CHANGE THIS
+For any questions or feedback, feel free to contact us at [samyukthasr03@gmail.com](mailto:samyukthasr03@gmail.com).  
 
 
 Happy generative learning!
